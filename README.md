@@ -1,8 +1,10 @@
 # Proyecto ETL - Contrataciones Públicas de Mendoza
 
 Este proyecto implementa un pipeline ETL utilizando Apache Airflow para descargar, transformar y cargar datos abiertos de contrataciones públicas de la provincia de Mendoza (Argentina), conforme al estándar OCDS (Open Contracting Data Standard).
+
 📊 Dataset
 Los datos provienen de fuentes públicas del Gobierno de Mendoza y están estructurados bajo el estándar OCDS.
+[Datasets](https://datosabiertos-compras.mendoza.gov.ar/datasets/)
 
 ✅ Resultado
 Este pipeline permite mantener una base de datos actualizada y limpia con información clave sobre procesos de licitación, adjudicaciones y contratos.
