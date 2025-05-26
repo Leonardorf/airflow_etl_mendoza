@@ -97,6 +97,8 @@ Este pipeline permite mantener una base de datos estructurada y actualizada con 
 
 ![Imagen de ejemplo](airflow_dags.png)
 
+![Imagen de ejemplo](mysql.png)
+
 
 
 ## 📌 Licencia
