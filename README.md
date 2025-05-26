@@ -71,11 +71,11 @@ El archivo docker-compose.yml incluye contenedores para PostgreSQL (usado por Ai
       airflow scheduler
 ▶️ Ejecución Local
 
-git clone https://github.com/Leonardorf/airflow_etl_mendoza.git
+   git clone https://github.com/Leonardorf/airflow_etl_mendoza.git
 
-cd airflow_etl_mendoza
+   cd airflow_etl_mendoza
 
-docker-compose up
+   docker-compose up
 
 Luego accedé a Airflow en http://localhost:8080, activá el DAG etl_mendoza y ejecûtalo manualmente o programá su ejecución periódica.
 Este proyecto se ejecuta desde el DAG etl_contrataciones_mendoza en el entorno de Airflow. Las tareas incluyen:
