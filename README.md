@@ -35,6 +35,7 @@ airflow_etl_mendoza/
 +-- docker-compose.yml              
 +-- .gitignore
 +-- README.md
+```
 
 
 
