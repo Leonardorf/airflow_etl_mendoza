@@ -18,6 +18,7 @@ Este pipeline permite mantener una base de datos actualizada y limpia con inform
 
 ## 📁 Estructura del proyecto
 
+```text
 airflow_etl_mendoza/
 +-- dags/
 ¦   +-- etl_mendoza.py              # DAG principal
