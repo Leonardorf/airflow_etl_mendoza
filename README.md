@@ -58,7 +58,7 @@ airflow_etl_mendoza/
       airflow db init
       airflow webserver
       airflow scheduler
-   ```bash
+   
 4. Habilitar y lanzar el DAG etl_contrataciones_mendoza desde la interfaz web.
 
    🚀 Ejecución
