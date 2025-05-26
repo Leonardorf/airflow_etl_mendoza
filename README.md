@@ -19,7 +19,9 @@ Este pipeline permite mantener una base de datos actualizada y limpia con inform
 ## 📁 Estructura del proyecto
 
 airflow_etl_mendoza/
+
 ├── dags/
+
 │   ├── etl_mendoza.py              # DAG principal
 │   └── scripts/
 │       ├── cargar_mysql.py
