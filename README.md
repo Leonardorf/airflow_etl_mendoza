@@ -68,5 +68,6 @@ Transformación (transformador)
 
 Carga en MySQL (cargar_mysql)
 
-🧩 Estándar de Datos
-Se utiliza el OCDS (Open Contracting Data Standard) como estructura base para los datos de procesos, adjudicaciones y contratos.
+
+## 📌 Licencia
+MIT
