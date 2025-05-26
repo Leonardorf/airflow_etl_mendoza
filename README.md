@@ -67,6 +67,8 @@ Descarga de datos (guardar_csvs)
 Transformación (transformador)
 
 Carga en MySQL (cargar_mysql)
+![Imagen de ejemplo](airflow_dags.png)
+
 
 
 ## 📌 Licencia
