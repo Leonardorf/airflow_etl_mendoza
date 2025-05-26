@@ -54,11 +54,11 @@ airflow_etl_mendoza/
 2. Configurar la conexión a MySQL en cargar_mysql.py
 
 3. Ejecutar Airflow:
-
-airflow db init
-airflow webserver
-airflow scheduler
-
+   ```bash
+      airflow db init
+      airflow webserver
+      airflow scheduler
+   ```bash
 4. Habilitar y lanzar el DAG etl_contrataciones_mendoza desde la interfaz web.
 
    🚀 Ejecución
