@@ -19,23 +19,21 @@ Este pipeline permite mantener una base de datos actualizada y limpia con inform
 ## 📁 Estructura del proyecto
 
 airflow_etl_mendoza/
-
-├── dags/
-
-│   ├── etl_mendoza.py              # DAG principal
-│   └── scripts/
-│       ├── cargar_mysql.py
-│       ├── guardar_csvs.py
-│       └── transformador.py
-├── data/
-│   ├── procesos.csv
-│   ├── adjudicaciones.csv
-│   └── contratos.csv
-├── tmp/                            # Archivos temporales .pkl
-├── requirements.txt
-├── docker-compose.yml              
-├── .gitignore
-└── README.md
++-- dags/
+¦   +-- etl_mendoza.py              # DAG principal
+¦   +-- scripts/
+¦       +-- cargar_mysql.py
+¦       +-- guardar_csvs.py
+¦       +-- transformador.py
++-- data/
+¦   +-- procesos.csv
+¦   +-- adjudicaciones.csv
+¦   +-- contratos.csv
++-- tmp/                            # Archivos temporales .pkl
++-- requirements.txt
++-- docker-compose.yml              
++-- .gitignore
++-- README.md
 
 
 
