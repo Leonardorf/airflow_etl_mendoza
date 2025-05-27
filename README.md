@@ -17,6 +17,7 @@ Transformar, limpiar y cargar datos abiertos sobre contrataciones públicas en u
 ## 🛠️ Herramientas utilizadas
 
 - **Apache Airflow**: Orquestación de tareas y ejecución programada del flujo ETL.
+- **Docker Desktop**: Ejecutar y gestionar contenedores localmente para facilitar el desarrollo de aplicaciones.
 - **Python 3**: Desarrollo de scripts personalizados.
 - **pandas**: Manipulación y transformación de datos.
 - **SQLAlchemy + PyMySQL**: Conexión e inserción de datos en base de datos MySQL.
